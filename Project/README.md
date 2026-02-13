@@ -1,0 +1,1 @@
+This folder contains our final exam project. The main component is an end-to-end ML pipeline for predicting student academic outcomes using the UCI “Predict Students Dropout and Academic Success” dataset, with analysis of preprocessing (Scaling, PCA, LDA) on SVM and Random Forest under class imbalance.
